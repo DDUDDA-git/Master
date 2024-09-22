@@ -9,14 +9,14 @@
 
 모두가 원하는 기능을 함축하여 쓸 수 있는 봇을 기획중에 있습니다.
 
-🔗 개발링크 : <https://bot.ddudda.com>
+🔗 개발링크 : <https://dev.dduone.com>
 ```
-1. Chzzk(치지직)/AfreecaTV(아프리카TV)의 API를 이용하여 실시간 방송알림 시스템
-2. 게임전용 검색엔진 (Lostark / League of legends / Rainbow Six Siege)
+1. 게임전용 검색엔진
+ 1-1. Lost Ark [Loawa / Iloa 등]
 ```
 
 ## 📌개발 목표
-* python언어로 구축할 계획입니다.
+* JavaScript언어로 구축할 계획입니다.
 * OpenAi와 연동하여 챗봇 역할을 가능하게 하는 것이 최종 목표입니다.
 * 소수의 서버에서 먼저 유용하게 사용되어 인증되는 봇이 되는것이 목표입니다.
 
@@ -32,8 +32,8 @@
 컨텐츠를 즐겨주셨으면 하는 생각에서 기획하게 되었습니다. 
 
 ## ⏲️ 개발 기간
-* 🗓️ June 19, 2024 ~ ING
-* 🔗 개발링크 : <https://blog.ddudda.com>
+* 🗓️ Sep 19, 2024 ~ ING
+* 🔗 개발링크 : <https://dduone.com>
 
 ## 🔗 개발공부 관련 링크
 <https://developer.mozilla.org/ko/docs/Learn/Getting_started_with_the_web/HTML_basics> <br>
@@ -43,7 +43,7 @@ Github : 반응형 여행사이트 랜딩페이지 (HTML, CSS, JS 연습과정)
 
 ## 💻 개발환경
 * IDE : Visual Studio Code
-* Server : Synology NAS DS220+ (Container Manager)
+* Server : N100-Proxmox
 * WS/SOURCE : nginx / wordpress
 * 아이디어 : Google, Github, ChatGPT Searching
 
